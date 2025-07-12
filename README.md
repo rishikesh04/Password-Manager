@@ -19,8 +19,11 @@
 ## 📁 Folder Structure
 client/ → React frontend
 server/ → Express backend
-├── db/ → MongoDB connection (native)
+├── db/ → MongoDB connection
 ├── routes/ → API routes
+
+
+
 
 ## 📦 Getting Started
 
@@ -39,10 +42,4 @@ cd Password-Manager
 
 - Deploy to cloud (Render, Vercel, etc.)
 
----
 
-Let me know if:
-- You're not using Vite or don’t have `client/server` folders — I’ll adjust it
-- You want to add screenshots or a live demo link at the top
-
-You can now save this as `README.md` in your project folder and push it to GitHub.
